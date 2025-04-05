@@ -169,8 +169,8 @@
   <sort>
     <key variable="citation-number"/>
   </sort>
-  <layout delimiter="," vertical-align="sup">
-    <text variable="citation-number" prefix="(" suffix=")"/>
+  <layout delimiter="," vertical-align="normal">
+    <text variable="citation-number" prefix="[" suffix="]"/>
   </layout>
 </citation>
   <bibliography second-field-align="flush" entry-spacing="0">
